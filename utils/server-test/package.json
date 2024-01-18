@@ -1,0 +1,21 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bavaria-ipsum": "^1.0.3",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "fake-data-generator": "^0.1.10",
+    "jsonwebtoken": "^8.5.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
