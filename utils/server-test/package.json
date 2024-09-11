@@ -10,9 +10,9 @@
   "dependencies": {
     "bavaria-ipsum": "^1.0.3",
     "bcrypt": "^5.0.0",
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.3",
     "cors": "^2.8.4",
-    "express": "^4.16.2",
+    "express": "^4.20.0",
     "fake-data-generator": "^0.1.10",
     "jsonwebtoken": "^8.5.0"
   },
